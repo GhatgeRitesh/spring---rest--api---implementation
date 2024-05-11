@@ -13,5 +13,5 @@ public class UserEntity {
     @Getter @Setter
     private String Name;
     @Getter @Setter
-    private String data;
+    private String Data;
 }
