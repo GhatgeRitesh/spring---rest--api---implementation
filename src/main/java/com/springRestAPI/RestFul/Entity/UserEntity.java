@@ -1,4 +1,4 @@
-package com.springRestAPI.RestFul.Model;
+package com.springRestAPI.RestFul.Entity;
 
 
 import lombok.Getter;

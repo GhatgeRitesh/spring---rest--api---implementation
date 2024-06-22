@@ -1,6 +1,6 @@
 package com.springRestAPI.RestFul.controllers;
 
-import com.springRestAPI.RestFul.Model.UserEntity;
+import com.springRestAPI.RestFul.Entity.UserEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
